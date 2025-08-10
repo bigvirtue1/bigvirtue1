@@ -1,4 +1,4 @@
-## 🔭 Bigvirtue1 Unofficial World's No.1 Privacy protection memo photo files management public key Encryption Program 
+## Bigvirtue1 Unofficial World's No.1 Privacy protection memo photo files management public key Encryption Program 
 ## 대덕탑 컴퓨터 회사 비공식 세계 최고 No.1 대덕 개인정보 보호 공개키 메모 사진 파일들 관리 공개키 암호화 프로그램 https://bigvirtue1.com
 <!--
 **bigvirtue1/bigvirtue1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
