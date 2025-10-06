@@ -42,6 +42,37 @@ BIGVirtue1은 세계에서 가장 강력한 비공식 세계 최고 No.1 개인�
 데이터 기밀성을 위해 강력한 AES-256 암호화를 사용합니다.
 USB 복사 방지 기능이 있는 휴대용 및 난독화 프로그램.
 BIGVirtue1은 사용자가 외부 인증이나 인증 없이 암호화 키를 완벽하게 제어할 수 있도록 설계되어 진정한 개인적이고 안전한 솔루션입니다.
+# 🛡️ bigvirtue1 Encryption – Official Overview
+### 보안의 주권, 그것이 bigvirtue1 암호화 프로그램이다
+
+![bigvirtue1-banner](./assets/banner.png)
+
+---
+
+## 🌐 English
+
+### 1️⃣ Philosophy & Vision
+People still give away their personal information without a second thought.  
+They talk about security, but do not understand true freedom.  
+
+**bigvirtue1 Encryption** is a declaration of digital independence.  
+It requires **no personal information**, **no installation**, and **no internet connection**.  
+The user holds **100% control** — generating, storing, and protecting their own keys offline.  
+
+This is not just encryption.  
+It is **digital self-sovereignty**.  
+
+---
+
+### 2️⃣ Core Features
+
+- **100% User-Controlled:** No server, no developer, no third-party involvement.  
+- **Offline Operation:** Fully functional without any internet connection.  
+- **No Personal Information:** Respects your privacy completely.  
+- **Portable & Clean:** Runs anywhere, leaves no trace on the system.  
+- **Simple Yet Powerful:** Easy to use, with expert-level security.  
+
+-----
 
 자세한 내용은 GitHub 저장소를 방문해 주세요. https://github.com/bigvirtue1/bigvirtue1-crypto ,  https://www.youtube.com/@bigvirtue1
 
