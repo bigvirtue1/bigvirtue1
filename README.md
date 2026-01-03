@@ -100,8 +100,6 @@ Contact / Feedback
 
 Issues/feedback channel: (GitHub Issues / email, etc.)
 
-bigvirtue1 (Experimental Offline File/Directory Encryption)
-
 bigvirtue1은 다중 요소 세션 키, 무결성 검증 파일, 그리고 15중 방어막 구조를 기반으로 설계된 실험적 오프라인 파일·디렉토리 암호화 프로그램으로, 검증 가능한 무결성과 통제된 복호화 과정을 중시하는 사용자를 대상으로 합니다.
 
 bigvirtue1은 개인 개발자가 만든 파일/디렉토리 단위 암호화 도구입니다.
