@@ -7,7 +7,7 @@ bigvirtue1 (Experimental Offline File/Directory Encryption)
 bigvirtue1 is a file- and directory-level encryption tool built by an independent developer.
 It focuses not only on encryption strength, but also on operational security after decryption (secure mode) and verifiable integrity checks.
 
-⚠️ Important: bigvirtue1 is currently closed-source and has not undergone an independent third-party security audit.
+⚠️ Important – bigvirtue1 is currently closed-source and has not undergone an independent third-party security audit.
 Users should review available materials and run their own tests before use, at their own discretion and responsibility.
 
 bigvirtue1 employs a multi-factor key architecture that combines 2 post-quantum cryptography Kyber 1024 public key, hqc quantum public key and x25519 public key , and three 1024-byte master seeds.
@@ -39,7 +39,7 @@ Secure Mode (optional/mode): avoid writing plaintext to disk; display in memory 
 
 Trace minimization: minimize residual artifacts during errors/interruption (design goal)
 
-Note: If you mention terms like “quantum-resistant,” define precisely what you mean and where it applies—this is heavily scrutinized in security communities.
+Note - If you mention terms like “quantum-resistant,” define precisely what you mean and where it applies—this is heavily scrutinized in security communities.
 
 Verification
 
@@ -105,7 +105,7 @@ bigvirtue1은 다중 요소 세션 키, 무결성 검증 파일, 그리고 15중
 bigvirtue1은 개인 개발자가 만든 파일/디렉토리 단위 암호화 도구입니다.
 목표는 “암호화 강도”만이 아니라, 특히 **복호화 이후의 평문 노출 위험을 줄이는 운영 방식(secure mode)**과 무결성 검증을 강화하는 것입니다.
 
-⚠️ 중요: 현재 bigvirtue1은 **폐쇄형(Closed-source)**이며, **독립적인 제3자 보안 감사(Third-party audit)**가 수행되지 않았습니다.
+⚠️ 중요 - 현재 bigvirtue1은 **폐쇄형(Closed-source)**이며, **독립적인 제3자 보안 감사(Third-party audit)**가 수행되지 않았습니다.
 따라서 사용자는 공개된 자료와 자체 테스트를 기반으로 본인 책임 하에 사용 여부를 판단해야 합니다.
 
 bigvirtue1은 2개의 양자 내성 Kyber 1024 과 Pqc 공개키 2개 와 추가 공개키 x25519 1개, 그리고 1024바이트 마스터 시드 3개를 결합하는 다중 키 구조를 사용합니다.
