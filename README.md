@@ -10,7 +10,7 @@ It focuses not only on encryption strength, but also on operational security aft
 ⚠️ Important: bigvirtue1 is currently closed-source and has not undergone an independent third-party security audit.
 Users should review available materials and run their own tests before use, at their own discretion and responsibility.
 
-bigvirtue1 employs a multi-factor key architecture that combines 2 post-quantum cryptography (Kyber 1024) (PQC) and public keys, one additional public key, and three 1024-byte master seeds.
+bigvirtue1 employs a multi-factor key architecture that combines 2 post-quantum cryptography Kyber 1024 public key, hqc quantum public key and x25519 public key , and three 1024-byte master seeds.
 In addition, it integrates one token key, ten external files, a master password, and additional passwords (a total of 12 independent factors) processed in parallel.
 
 These factors are combined using salted key-derivation functions (KDFs) to generate independent session keys.
@@ -110,7 +110,7 @@ bigvirtue1은 개인 개발자가 만든 파일/디렉토리 단위 암호화 �
 ⚠️ 중요: 현재 bigvirtue1은 **폐쇄형(Closed-source)**이며, **독립적인 제3자 보안 감사(Third-party audit)**가 수행되지 않았습니다.
 따라서 사용자는 공개된 자료와 자체 테스트를 기반으로 본인 책임 하에 사용 여부를 판단해야 합니다.
 
-bigvirtue1은 2개의 양자 내성 (Kyber 1024) (PQC) 공개키 2개, 추가 공개키 1개, 그리고 1024바이트 마스터 시드 3개를 결합하는 다중 키 구조를 사용합니다.
+bigvirtue1은 2개의 양자 내성 Kyber 1024 과 Pqc 공개키 2개 와 추가 공개키 x25519 1개, 그리고 1024바이트 마스터 시드 3개를 결합하는 다중 키 구조를 사용합니다.
 여기에 토큰 키 1개, 외부 파일 10개, 마스터 비밀번호, 그리고 추가 비밀번호를 포함하여 총 12개의 독립 요소를 병렬 처리합니다.
 
 이 요소들은 **salt를 포함한 키 파생 함수(KDF)**를 통해 독립적인 세션 키로 생성됩니다.
