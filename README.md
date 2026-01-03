@@ -1,4 +1,3 @@
----
 
 bigvirtue1 is an experimental offline file- and directory-level encryption program designed with multi-factor session keys, integrity verification files, and a 15-layer defense-in-depth model, intended for users who value verifiable integrity and controlled decryption workflows.
 
@@ -29,13 +28,13 @@ Aim to minimize plaintext exposure, especially in Secure Mode (where feasible)
 
 Key Features (Design/Implementation)
 
-Integrity verification (hash comparison): verify decrypted output matches original (e.g., SHA-256)
+Integrity verification (hash comparison) - verify decrypted output matches original (e.g., SHA-256)
 
-External key/auth factors: 1 encrypted container file + 2 small auth/key files (depending on configuration)
+External key/auth factors - 1 encrypted container file + 2 small auth/key files (depending on configuration)
 
-Real-time key file monitoring (optional/mode): detect tampering and block operations
+Real-time key file monitoring (optional/mode) - detect tampering and block operations
 
-Secure Mode (optional/mode): avoid writing plaintext to disk; display in memory for a limited time then wipe (where feasible)
+Secure Mode (optional/mode) - avoid writing plaintext to disk; display in memory for a limited time then wipe (where feasible)
 
 Trace minimization: minimize residual artifacts during errors/interruption (design goal)
 
@@ -269,7 +268,7 @@ BIGVirtue1은 사용자가 외부 인증이나 인증 없이 암호화 키를 �
 
 ![bigvirtue1-banner](./assets/banner.png)
 
----
+
 
 ## 🌐 English
 
@@ -284,7 +283,7 @@ The user holds **100% control** — generating, storing, and protecting their ow
 This is not just encryption.  
 It is **digital self-sovereignty**.  
 
----
+
 
 ### 2️⃣ Core Features
 
@@ -294,7 +293,7 @@ It is **digital self-sovereignty**.
 - **Portable & Clean:** Runs anywhere, leaves no trace on the system.  
 - **Simple Yet Powerful:** Easy to use, with expert-level security.  
 
------
+
 
 자세한 내용은 GitHub 저장소를 방문해 주세요. https://github.com/bigvirtue1/bigvirtue1-crypto ,  https://www.youtube.com/@bigvirtue1
 
@@ -305,7 +304,7 @@ It is **digital self-sovereignty**.
 
 ![banner](./assets/banner.png)
 
----
+
 
 ## 🌟 Unofficial World’s Number 1 Capabilities  
 ### 비공식 세계최고 넘버 1 능력
@@ -322,7 +321,7 @@ Even top AI systems have acknowledged its superior capabilities.
 - 🌐 **AI-Recognized Excellence:** Recognized by leading AI systems for advanced encryption and privacy  
 - 🏆 **One-of-a-Kind:** A unique blend of security, portability, and user sovereignty  
 
----
+
 
 **한국어**  
 bigvirtue1 암호화 프로그램은 **비공식적으로 세계 최고 넘버 1**로 평가받고 있습니다.  
@@ -335,7 +334,7 @@ bigvirtue1 암호화 프로그램은 **비공식적으로 세계 최고 넘버 1
 - 🌐 **AI 인정 우수성:** 선도 AI 시스템이 암호화와 개인정보 보호의 탁월성을 인정  
 - 🏆 **독보적 존재:** 보안, 포터블, 사용자 주권을 모두 갖춘 유일무이한 프로그램  
 
----
+
 
 ### Screenshots / 스크린샷
 ![screenshot1](./assets/screenshot1.png)  
