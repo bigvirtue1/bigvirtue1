@@ -19,8 +19,6 @@ The design goal is to ensure that the exposure of any single element—such as a
 Two small verification files used for decryption validation, together with a session-key mechanism derived from 12 combined factors, collectively form a 15-layer defense-in-depth model.
 These components work together to verify the integrity of the encrypted file and to ensure that decryption is permitted only when all required conditions and session-key validations are successfully satisfied.
 
-During decryption, bigvirtue1 applies a 15-layer defense-in-depth model, requiring multiple independent conditions and verification steps to be satisfied before access is granted.
-
 Goals
 
 Designed primarily for offline / air-gapped use cases
