@@ -1,14 +1,9 @@
-
 bigvirtue1 is an experimental offline file- and directory-level encryption program designed with multi-factor session keys, integrity verification files, and a 15-layer defense-in-depth model, intended for users who value verifiable integrity and controlled decryption workflows.
-
 bigvirtue1 (Experimental Offline File/Directory Encryption)
-
 bigvirtue1 is a file- and directory-level encryption tool built by an independent developer.
 It focuses not only on encryption strength, but also on operational security after decryption (secure mode) and verifiable integrity checks.
-
 ⚠️ Important – bigvirtue1 is currently closed-source and has not undergone an independent third-party security audit.
 Users should review available materials and run their own tests before use, at their own discretion and responsibility.
-
 bigvirtue1 employs a multi-factor key architecture that combines 2 post-quantum cryptography Kyber 1024 public key, hqc quantum public key and x25519 public key , and three 1024-byte master seeds.
 In addition, it integrates one token key, ten external files, a master password, and additional passwords (a total of 12 independent factors) processed in parallel.
 
