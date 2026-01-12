@@ -1,3 +1,111 @@
+# BigVirtue1
+
+BigVirtue1 is a stealth-oriented encryption system focused on protecting password entry and reducing operational exposure, complementing traditional disk encryption tools such as VeraCrypt.
+
+---
+
+## Overview
+
+Traditional disk encryption tools primarily focus on cryptographic strength *after* password entry.
+BigVirtue1 addresses a different threat model by strengthening security *before and during* password entry, where real-world compromises often occur.
+
+BigVirtue1 is designed for users who consider password entry, operational visibility, and key exposure to be critical attack surfaces.
+
+---
+
+## Threat Model
+
+### Protected Against
+- User-space keyloggers
+- Automated and repeated password attempts
+- Screen capture and common screen recording tools
+- Password exposure during input
+- Single-password–only offline attack models
+
+### Not Protected Against
+- Kernel-level or hypervisor-level malware
+- Physical attacks (hardware capture, cold boot, etc.)
+- Fully compromised operating systems
+
+---
+
+## Key Features
+
+- **Multi-stage key input**
+  - Three independent encrypted key containers
+  - Sequential input processing
+  - Intermediate keys are destroyed immediately after use
+
+- **Mandatory external key material**
+  - Thousands of key material files stored inside the encrypted disk
+  - Order-dependent key derivation
+  - Changing file order results in a completely different derived key
+
+- **Strong key derivation**
+  - Argon2id and scrypt
+  - Memory-hard configuration to increase offline attack cost
+  - Designed to reduce GPU/ASIC efficiency
+
+- **Password entry protection**
+  - Virtual keyboard
+  - Input attempt limiting and delay
+  - Screen capture and recording protection during password entry
+  - Best-effort secure memory cleanup
+
+- **Stealth-oriented operation**
+  - Reduced operational visibility
+  - Minimal exposure of sensitive UI and intermediate data
+
+---
+
+## Comparison with VeraCrypt
+
+VeraCrypt focuses on long-term, publicly audited disk encryption and cryptographic robustness after password entry.
+
+BigVirtue1 complements this approach by emphasizing:
+- Password entry protection
+- Stealth-oriented operation
+- Multi-dimensional key material and sequential derivation
+
+Both tools target different layers of the security stack and are not direct replacements for each other.
+
+---
+
+## Demonstration and Validation
+
+The correctness and behavior of BigVirtue1 have been validated through reproducible video demonstrations, including:
+- Successful encryption and full decryption
+- Integrity verification using cryptographic hashes
+- Protection against screen capture and recording during password entry
+
+(Insert video link here)
+
+---
+
+## Security Properties
+
+- Correctness of encryption and decryption
+- File-level and global integrity verification
+- Deterministic, order-dependent key derivation
+- Ephemeral handling of intermediate keys
+
+Security relies on standard cryptographic assumptions (e.g., AES, SHA-3, Argon2id, scrypt).
+
+---
+
+## Limitations
+
+BigVirtue1 does not claim absolute security.
+It does not defend against kernel-level attacks, physical compromise, or fully hostile execution environments.
+
+---
+
+## Disclaimer
+
+BigVirtue1 is an experimental and concept-driven encryption system.
+Any references to strength or superiority are contextual and dependent on the defined threat model.
+
+
 bigvirtue1 is an experimental offline file- and directory-level encryption program designed with multi-factor session keys, integrity verification files, and a 15-layer defense-in-depth model, intended for users who value verifiable integrity and controlled decryption workflows.
 Virtual Keyboard and Screen Capture Protection and Clipboard Copy Protection and Memory Encryption
 bigvirtue1 (Experimental Offline File/Directory Encryption)
