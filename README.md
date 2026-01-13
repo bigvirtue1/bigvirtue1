@@ -16,7 +16,7 @@ I am on a mission to redefine digital privacy. Within the next **6 months**, I w
 * **화면 전용 무흔적 열람:** 메모/사진을 화면에서만 안전하게 확인.
 * **직관적인 이중 인증:** 2개의 비밀번호와 1개의 파일로 9중 레이어 통제.
 
-👉 **Check the Roadmap & Progress:** [Bigvirtue1-Crypto](https://github.com/bigvirtue1/crypto)
+👉 **Check the Roadmap & Progress:** [bigvirtue1/crypto](https://github.com/bigvirtue1/crypto)
 👉 **Official Site:** [bigvirtue1.com](https://bigvirtue1.com)
 
 # BigVirtue1
