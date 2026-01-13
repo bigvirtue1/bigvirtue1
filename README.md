@@ -1,3 +1,24 @@
+# 👋 Welcome to Bigvirtue1
+
+### 🛡️ World-Class Security for Everyone, For Free.
+I am on a mission to redefine digital privacy. Within the next **6 months**, I will release a professional-grade **Self-Extracting EXE encryption tool** for free.
+
+* **7-Layer Defense:** Automatic protection during password entry.
+* **Zero-Trace On-Screen View:** View your secrets with absolute privacy.
+* **9-Layer Security:** Complex internal logic managed by 2 passwords + 1 file.
+
+---
+
+### 📢 공식 무료 공개 선언 (6개월 이내)
+상용 프로그램급의 **Bigvirtue1 EXE 자동 풀림 암호화 프로그램**을 6개월 이내에 무료로 공개합니다.
+
+* **7중 자동 보호막:** 비밀번호 입력 시 평문 노출 0%.
+* **화면 전용 무흔적 열람:** 메모/사진을 화면에서만 안전하게 확인.
+* **직관적인 이중 인증:** 2개의 비밀번호와 1개의 파일로 9중 레이어 통제.
+
+👉 **Check the Roadmap & Progress:** [Bigvirtue1-Crypto](https://github.com/bigvirtue1/crypto)
+👉 **Official Site:** [bigvirtue1.com](https://bigvirtue1.com)
+
 # BigVirtue1
 
 BigVirtue1 is a stealth-oriented encryption system focused on protecting password entry and reducing operational exposure, complementing traditional disk encryption tools such as VeraCrypt.
