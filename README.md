@@ -25,6 +25,62 @@ BigVirtue1 is a stealth-oriented encryption system focused on protecting passwor
 
 ---
 
+# 🔐 BIGVIRTUE1 Encryption System
+
+![BIGVIRTUE1 Logo](https://example.com/logo.png)  
+> “단순한 암호화가 아닌, 시스템 레벨 방어를 목표로 합니다 / Not just encryption, but system-level defense.”
+
+---
+
+## 🚀 핵심 설계 목표 / Key Design Principles
+
+- 🛡 입력 상태 암호화 / Encrypted-State Input  
+  > 입력 순간부터 메모리에 평문이 남지 않음 / No plaintext remains in memory.
+- 🔗 다요소 & 환경 결합 키 / Multi-Factor & Environment Bound Keys  
+  > 난수, 외부 파일, 환경 결합으로 키 안전 극대화 / Combines randomness, external files, and environment.
+- ⚡ 단계별 흔적 삭제 / Step-by-Step State Destruction  
+  > 이전 상태 흔적을 철저히 삭제 / Thorough deletion of previous states.
+- 🖥 스왑 / 캐시 / 덤프 배제 / Swap / Cache / Dump Exclusion  
+  > OS/메모리 레벨 보호로 평문 흔적 제거 / Prevents plaintext leakage via OS memory.
+- 🔒 단일 키 재현 불가 / Single Key Recovery Impossible  
+  > 단일 입력/키로는 암호 상태 재현 불가 / Cannot reconstruct encrypted state with a single input.
+
+---
+
+## 🎯 위협 모델 / Threat Model
+
+BIGVIRTUE1은 다음 조건을 전제로 설계되었습니다:
+
+- ✅ 커널 및 펌웨어 무결성 유지 / Trusted Kernel and Firmware
+- ✅ DMA / Hypervisor 공격 없음 / No DMA/Hypervisor compromise
+- ✅ 사용자 공간 공격 방어 목표 / User-space attacks mitigation
+
+💡 **현실적 사용자 공간 공격(키로거, 메모리 스캔, 부분 정보 탈취 등)을 효과적으로 차단합니다 / Effectively mitigates realistic user-space attacks (keyloggers, memory scraping, partial info leakage).**
+
+---
+
+## ⚙ 구조 요약 / Architecture Overview
+
+```text
+[User Input]
+     |
+     v
+[Encrypted-State Transformation]
+     |
+     v
+[Multi-Factor Key Derivation]
+     |
+     v
+[Step-by-Step Destruction]
+     |
+     v
+[External File / Environment Binding]
+     |
+     v
+[Final Encrypted Output]
+
+
+
 ## Overview
 
 Traditional disk encryption tools primarily focus on cryptographic strength *after* password entry.
