@@ -19,6 +19,9 @@ I am on a mission to redefine digital privacy. Within the next **6 months**, I w
 👉 **Check the Roadmap & Progress:** [bigvirtue1/crypto](https://github.com/bigvirtue1/crypto)
 👉 **Official Site:** [bigvirtue1.com](https://bigvirtue1.com)
 
+## 📹 Demo Videos
+   Check out our [latest demo videos](https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god/releases/tag/v1.0-demo)
+   
 # BigVirtue1
 
 BigVirtue1 is a stealth-oriented encryption system focused on protecting password entry and reducing operational exposure, complementing traditional disk encryption tools such as VeraCrypt.
