@@ -60,7 +60,7 @@ Bigvirtue1 provides an impenetrable defense system that surpasses traditional to
 **For detailed technical specifications, please visit:**
 **(8중 방어 시스템의 상세 기술 명세는 아래 링크에서 확인하세요:)**
 
-👉 **[View Detailed Technical Documentation (상세 기술 문서 보기)](./docs/README.md)**
+👉 **[View Detailed Technical Documentation (상세 기술 문서 보기)](https://github.com/bigvirtue1/docs/blob/main/README.md)**
 
 ---
 *© 2026 Bigvirtue1 Privacy Guardian God. All rights reserved.*
