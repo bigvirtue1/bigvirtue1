@@ -19,9 +19,9 @@ Bigvirtue1 provides an impenetrable defense system that surpasses traditional to
 * **Hardware ID (HWID) Binding (하드웨어 ID 기반 암호화)**
   - Decryption is only possible on your specific authorized PC.
   - (하드웨어 ID가 포함된 암호화로 오직 내 컴퓨터에서만 복호화가 가능합니다.)
-* **7-Layer Note Protection (메모 7중 보호)**
-  - Private notes are protected by a rigorous 7-layer defense code.
-  - (메모 내용까지 7중 방어 코드로 비밀번호처럼 철저히 보호합니다.)
+* **8-Layer Note Protection (메모 8중 보호)**
+  - Private notes are protected by a rigorous 8-layer defense code.
+  - (메모 내용까지 8중 방어 코드로 비밀번호처럼 철저히 보호합니다.)
 
 ---
 
