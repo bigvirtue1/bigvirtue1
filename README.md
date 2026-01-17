@@ -25,6 +25,16 @@ Bigvirtue1 provides an impenetrable defense system that surpasses traditional to
 
 ---
 
+### 🔗 Quick Access to Services (서비스 바로가기)
+배포 및 기술 확인을 위한 공식 링크입니다.
+
+* 📥 **[Official Download Center (공식 배포처)](https://github.com/bigvirtue1/bigvirtue1/releases)**
+  *(v1.0.0-beta 배포 준비 중 - 클릭하여 확인)*
+* 📖 **[Technical Documentation (8중 방어 기술 명세)](https://github.com/bigvirtue1/docs/blob/main/README.md)**
+  *(마우스 커서 은닉 및 양자 내성 로직 상세 설명)*
+
+---
+
 ### 🚀 Distribution Plan (배포 계획)
 
 * **Free Version Release (무료 배포 계획)**
