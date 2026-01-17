@@ -41,24 +41,18 @@ Bigvirtue1 provides an impenetrable defense system that surpasses traditional to
 
 ---
 
-### 📧 Request via Email (이메일 신청 가이드)
+### 📧 How to Request Authentication Key (인증키 신청 방법)
 
-**Click the link below to send your request automatically:**
-**(아래 이메일 링크를 클릭하면 신청 양식이 자동으로 생성됩니다:)**
+**Please send an email with the following details:**
+**(아래 정보를 복사하여 이메일로 보내주시기 바랍니다:)**
 
-### 📧 Request via Email (이메일 신청 가이드)
+* **Recipient (받는 사람):** `bigvirtue1@naver.com`
+* **Subject (이메일 제목):** `[Bigvirtue1 Key Request] Name / HWID`
+* **Message Content (메일 내용):**
+    1. Name or SNS ID (성함 또는 SNS 아이디)
+    2. Hardware ID (하드웨어 ID)
+    3. Attached Proof of 'Like' (좋아요 인증샷 첨부)
 
-**Option 1: Click the link below (자동 신청 링크)**
-👉 **[Send Request (인증키 신청하기)](mailto:bigvirtue1@naver.com?subject=[Bigvirtue1%20Key%20Request]%20Name%20/%20HWID)**
-*(Note: If the link doesn't open, please use Option 2 below.)*
-*(참고: 링크가 작동하지 않으면 아래의 수동 정보를 이용해 주세요.)*
-
-**Option 2: Manual Copy & Paste (수동 복사 안내)**
-* **To (받는 사람):** `bigvirtue1@naver.com`
-* **Subject (제목):** `[Bigvirtue1 Key Request] Name / HWID`
-* **Content (내용):** 1. Name or SNS ID (성함 또는 SNS 아이디)
-  2. Hardware ID (하드웨어 ID)
-  3. Screenshot of 'Like' (좋아요 인증샷 첨부)
 ---
 
 ### 📖 Documentation (상세 문서)
