@@ -37,10 +37,20 @@ Bigvirtue1 provides an impenetrable defense system that surpasses traditional to
   2. Send an email to us with proof of your social media engagement.
      (SNS 참여 인증샷과 함께 저희에게 이메일을 보냅니다.)
   3. We will provide a unique **Private Authentication Key** tied to your HWID.
-     (확인 후, 귀하의 하드웨어 ID에 대응하는 유일한 **개인 인증키**를 발급해 드립니다. )
+     (확인 후, 귀하의 하드웨어 ID에 대응하는 유일한 **개인 인증키**를 발급해 드립니다.)
 
-  📧 ** Official Email: [bigvirtue1@naver.com] or bigvirtue1.com **
-  (인증 요청 및 문의는 위 이메일 주소로 보내주시기 바랍니다.)
+---
+
+### 📧 Request via Email (이메일 신청 가이드)
+
+**Click the link below to send your request automatically:**
+**(아래 이메일 링크를 클릭하면 신청 양식이 자동으로 생성됩니다:)**
+
+👉 **[Send Request (인증키 신청하기)](mailto:bigvirtue1@naver.com?subject=[Bigvirtue1%20Key%20Request]%20Name%20/%20HWID&body=1.%20Name/SNS%20ID:%0D%0A2.%20Hardware%20ID:%0D%0A3.%20Screenshot%20Attached:%20Yes/No)**
+
+* **Email Address:** `bigvirtue1@naver.com`
+* **Subject Line:** `[Bigvirtue1 Key Request] Name / HWID`
+* (이메일 제목: `[Bigvirtue1 키 요청] 성함 / 하드웨어 ID`)
 ---
 
 ### 📖 Documentation (상세 문서)
