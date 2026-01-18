@@ -1,4 +1,4 @@
-# 🛡️ Bigvirtue1 Privacy Guardian God
+# 🛡️ Bigvirtue1 Privacy Guardian God Quantum Public key Encryption Program
 
 # Bigvirtue1 Security Project
 
@@ -13,7 +13,7 @@ This repository is the entry point to the Bigvirtue1 security ecosystem.
 Bigvirtue1 focuses on offline, hardware-bound encryption
 for a world where trust can no longer be assumed.
 
-# 🛡️Bigvirtue1 Privacy Guardian God Quantum Public key Encryption Program
+# 🛡️Bigvirtue1 Privacy Quantum Public key Guardian God Encryption Program
 
 **The world's most aggressive offline encryption system  
 designed for a reality where trust no longer exists.**
