@@ -1,5 +1,18 @@
 # 🛡️ Bigvirtue1 Privacy Guardian God
 
+# Bigvirtue1 Security Project
+
+This repository is the entry point to the Bigvirtue1 security ecosystem.
+
+🔒 Main Project (Official):
+👉 https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god
+
+📘 Technical Documentation:
+👉 https://github.com/bigvirtue1/docs
+
+Bigvirtue1 focuses on offline, hardware-bound encryption
+for a world where trust can no longer be assumed.
+
 **The most aggressive offline encryption program  
 designed for a world where trust no longer exists.**
 
