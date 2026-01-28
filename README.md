@@ -1,6 +1,13 @@
-# 🛡️ Bigvirtue1 Privacy Quantum Public key Encryption Program
-
-# Bigvirtue1 Guardian God Encryption Program Security Project
+# 🛡️ Bigvirtue1 Privacy Guardian God Quantum Public key Encryption Program Security Project
+bigvirtue1 is NOT a general-purpose encryption tool like VeraCrypt.
+It is a hardware-bound, developer-sovereign encryption system
+that uses trusted hardware public keys as the root of trust.
+bigvirtue1 assumes controlled environments and explicit trust,
+not public verification or password-only security.
+This project targets threat models that VeraCrypt does not.
+bigvirtue1은 VeraCrypt와 같은 범용 암호화 도구가 아닙니다. 이 프로젝트는 
+신뢰된 하드웨어 공개키를 신뢰 루트로 사용하는 하드웨어 종속·개발자 주권형 암호화 시스템입니다.
+공개 검증이나 비밀번호 기반 보안을 전제로 하지 않으며,VeraCrypt가 다루지 않는 위협 모델을 목표로 합니다.
 
 The Ultimate Shield in the Digital Age: bigvirtue1 Encryption
 In an era where data privacy equals personal freedom, bigvirtue1 emerges not just as a tool, but as a revolution in digital sovereignty. Surpassing traditional standards like VeraCrypt, it offers a new paradigm of "Absolute Security."
