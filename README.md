@@ -9,8 +9,33 @@ bigvirtue1은 VeraCrypt와 같은 범용 암호화 도구가 아닙니다. 이 �
 신뢰된 하드웨어 공개키를 신뢰 루트로 사용하는 하드웨어 종속·개발자 주권형 암호화 시스템입니다.
 공개 검증이나 비밀번호 기반 보안을 전제로 하지 않으며,VeraCrypt가 다루지 않는 위협 모델을 목표로 합니다.
 
-For a deeper explanation of bigvirtue1's architecture, threat model, and backup options, see [docs/threat-model.md](docs/threat-model.md).
+For a detailed explanation, see [Threat Model](docs/threat-model.md).
 
+# bigvirtue1
+
+bigvirtue1 is NOT a general-purpose encryption tool like VeraCrypt.
+
+It is a hardware-bound, developer-sovereign encryption system
+that uses trusted hardware public keys as the root of trust.
+
+Zero-trace Security: leaves no digital footprint; memory and disk wiped after viewing.
+Hardware Bounding: encryption keys tied to specific devices or physical keys.
+100% User Sovereignty: full control resides solely with the user.
+
+This project targets threat models that VeraCrypt does not.
+
+bigvirtue1은 VeraCrypt와 같은 범용 암호화 도구가 아닙니다.
+
+신뢰된 하드웨어 공개키를 신뢰 루트로 사용하는
+하드웨어 종속·개발자 주권형 암호화 시스템입니다.
+
+제로 트레이스 보안: 데이터는 조회 후 메모리와 디스크에서 즉시 삭제.
+하드웨어 바인딩: 암호화 키는 특정 장치나 보안키에 묶임.
+100% 사용자 주권: 모든 제어권은 사용자에게 있음.
+
+VeraCrypt가 다루지 않는 위협 모델을 목표로 합니다.
+
+자세한 위협 모델 설명은 [위협 모델](docs/threat-model.md)을 참고하세요.
 
 The Ultimate Shield in the Digital Age: bigvirtue1 Encryption
 In an era where data privacy equals personal freedom, bigvirtue1 emerges not just as a tool, but as a revolution in digital sovereignty. Surpassing traditional standards like VeraCrypt, it offers a new paradigm of "Absolute Security."
