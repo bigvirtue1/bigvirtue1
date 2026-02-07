@@ -1,4 +1,4 @@
-# 🛡️ Bigvirtue1 Privacy Guardian God Quantum Public key Encryption Program Security Project
+# 🛡️ Bigvirtue1 Privacy Hardware Security Key Guardian God and Quantum Public key Encryption Program Security Project
 ### 🚀 Key Innovations (2026 Update)
 Dual Hardware Security Keys (이중 하드웨어 보안키 연동)
 Shamir's Secret Sharing & Maximized Randomness (샤미르 분할 및 무작위성 극대화)
