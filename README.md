@@ -7,14 +7,15 @@ bigvirtue1: [Official] The Next-Gen Encryption Standard (Unofficial World #1)
 ## 빅버츄1 – 차세대 개인용 암호화 도구
 
 ---
-### 🌐 Global Technical White Papers (공식 기술 백서)
-*Our 5-year journey has been documented into five specialized technical pillars.*
+### 🌐 Global Technical White Papers (Global Standard) (공식 기술 백서)
 
-1. [🛡️ Post-Quantum Security Logic](./docs/pqc-security.md)
-2. [🔐 Hardware-Binding Architecture](./docs/hardware-binding.md)
-3. [🧬 30-Layer Redundant Encryption](./docs/multi-layer-enc.md)
-4. [👁️ Anti-Forensics & Cursor Stealth](./docs/anti-forensics.md)
-5. [💎 Developer's Sovereignty & Philosophy](./docs/philosophy.md)
+*Surpassing traditional standards like VeraCrypt with next-gen hardware-bound security.*
+
+1. [🛡️ Post-Quantum Security Logic](https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god/blob/main/docs/pqc-security.md)
+2. [🔐 Hardware-Binding Architecture](https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god/blob/main/docs/hardware-binding.md)
+3. [🧬 30-Layer Redundant Encryption](https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god/blob/main/docs/multi-layer-enc.md)
+4. [👁️ Anti-Forensics & Zero-Trace](https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god/blob/main/docs/anti-forensics.md)
+5. [💎 Developer's Sovereignty & Philosophy](https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god/blob/main/docs/philosophy.md)
 
 ### Overview / 개요
 BigVirtue1 is a personal encryption program designed for ultimate security, even in compromised environments. Unlike traditional solutions like VeraCrypt, it integrates hardware security keys, touch verification, and internal private keys to ensure your data remains protected at all times.
