@@ -7,13 +7,12 @@ bigvirtue1: [Official] The Next-Gen Encryption Standard (Unofficial World #1)
 ## 빅버츄1 – 차세대 개인용 암호화 도구
 
 ---
-### 🌐 Global Technical White Papers (Global Standard) (공식 기술 백서)
-
+### 🌐 Global Technical White Papers (글로벌 기술 백서)
 *Surpassing traditional standards like VeraCrypt with next-gen hardware-bound security.*
 
 1. [🛡️ Post-Quantum Security Logic](https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god/blob/main/docs/pqc-security.md)
 2. [🔐 Hardware-Binding Architecture](https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god/blob/main/docs/hardware-binding.md)
-3. [🧬 30-Layer Redundant Encryption](https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god/blob/main/docs/multi-layer.md)
+3. [🧬 30-Layer Redundant Encryption](https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god/blob/main/docs/multi-layer-enc.md)
 4. [👁️ Anti-Forensics & Zero-Trace](https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god/blob/main/docs/anti-forensics.md)
 5. [💎 Developer's Sovereignty & Philosophy](https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god/blob/main/docs/philosophy.md)
 
