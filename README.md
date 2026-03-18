@@ -7,6 +7,12 @@ bigvirtue1: [Official] The Next-Gen Encryption Standard (Unofficial World #1)
 ## 빅버츄1 – 차세대 개인용 암호화 도구
 
 ---
+### 📖 Table of Contents (기술 문서 목차)
+
+1. [Quantum-Resistant Logic](./docs/pqc-logic.md) - 양자 시대의 새로운 보안 표준
+2. [Hardware-Binding Architecture](./docs/hardware-binding.md) - 물리적 실체와의 완벽한 결속
+3. [30-Layer Encryption Engine](./docs/multi-layer-enc.md) - 전례 없는 다층 방어 체계
+4. [Anti-Forensics & Zero-Trace](./docs/anti-forensics.md) - 흔적조차 허용하지 않는 무결성
 
 ### Overview / 개요
 BigVirtue1 is a personal encryption program designed for ultimate security, even in compromised environments. Unlike traditional solutions like VeraCrypt, it integrates hardware security keys, touch verification, and internal private keys to ensure your data remains protected at all times.
