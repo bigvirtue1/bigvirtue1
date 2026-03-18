@@ -12,7 +12,7 @@ bigvirtue1: [Official] The Next-Gen Encryption Standard (Unofficial World #1)
 
 1. [🛡️ Post-Quantum Security Logic](https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god/blob/main/docs/pqc-security.md)
 2. [🔐 Hardware-Binding Architecture](https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god/blob/main/docs/hardware-binding.md)
-3. [🧬 30-Layer Redundant Encryption](https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god/blob/main/docs/multi-layer-enc.md)
+3. [🧬 30-Layer Redundant Encryption](https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god/blob/main/docs/multi-layer.md)
 4. [👁️ Anti-Forensics & Zero-Trace](https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god/blob/main/docs/anti-forensics.md)
 5. [💎 Developer's Sovereignty & Philosophy](https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god/blob/main/docs/philosophy.md)
 
