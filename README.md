@@ -6,8 +6,6 @@ bigvirtue1: [Official] The Next-Gen Encryption Standard (Unofficial World #1)
 # BigVirtue1 – The Next-Level Personal Encryption Tool
 ## 빅버츄1 – 차세대 개인용 암호화 도구
 
-<img width="1536" height="2752" alt="bigvirtue1" src="https://github.com/user-attachments/assets/e39c87b0-7896-40c6-97bc-e58d4f949e01" />
-
 
 bigvirtue1: The Next Standard in Hardware-Bound & Post-Quantum Encryption
 "Moving Beyond VeraCrypt: Achieving Absolute Defense through Hardware-Soul Integration"
