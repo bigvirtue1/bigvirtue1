@@ -32,7 +32,9 @@ Introducing bigvirtue1, the world's most powerful encryption software designed t
 윈도우 시스템 시계와 함께 촬영된 편집 없는 실시간 데모 영상을 확인하십시오. bigvirtue1의 13중 연쇄 암호화가 실제 환경에서 어떻게 '천하무적'의 보안을 구현하는지 직접 보실 수 있습니다.
 
 ### 📺 공식 유튜브 채널 (실시간 구동 증명)
-[![YouTube Channel](https://shields.io)](https://www.youtube.com/@bigvirtue1)
+**[KOREAN]**  
+조작 없는 실시간 구동 영상을 확인하십시오. (시스템 시계 포함)  
+공식 링크: [https://www.youtube.com/@bigvirtue1](https://www.youtube.com/@bigvirtue1)
 
 
 [ENGLISH]
@@ -40,7 +42,9 @@ Introducing bigvirtue1, the world's most powerful encryption software designed t
 Watch the live, unedited demonstration of bigvirtue1 featuring the system clock to ensure 100% integrity. Witness how the 13-layer chain encryption creates an "Invincible Shield" in real-world environments.
 
 ### 📺 Official YouTube channel (Proof of real-time working)
-[![YouTube Channel](https://shields.io)](https://www.youtube.com/@bigvirtue1)
+**[ENGLISH]**  
+Watch the unedited real-time demonstration. (System clock included)  
+Official Link: [https://www.youtube.com/@bigvirtue1](https://www.youtube.com/@bigvirtue1)
 
 
 bigvirtue1: The Next Standard in Hardware-Bound & Post-Quantum Encryption
