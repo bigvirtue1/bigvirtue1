@@ -13,7 +13,7 @@ bigvirtue1: [Official] The Next-Gen Encryption Standard (Unofficial World best n
 [KOREAN]
 국가도 지켜주지 않는 당신의 소중한 추억과 개인의 역사를 위한 '천하무적' 암호화 솔루션, bigvirtue1을 공개합니다. 기존의 VeraCrypt를 능가하는 세계 최고 수준의 보안 아키텍처로, 당신의 사진과 메모를 디지털 요새에 봉인하십시오.
 
-    세계 최초 13중 직렬 연쇄 암호화: 현존하는 그 어떤 해킹 시도도 불가능한 철벽 방어.
+    세계 최초 20중 직렬 연쇄 암호화: 현존하는 그 어떤 해킹 시도도 불가능한 철벽 방어.
     하드웨어 바운딩(Hardware-Binding): 특정 PC 부품과 논리적으로 결합되어, 기기 탈취나 복제 시도를 원천 차단.
     포스트 양자 보안(PQC): 외부 양자 개인키를 활용하여 미래의 양자 컴퓨터 공격으로부터 데이터를 영구히 보호.
     완벽한 오프라인 독립성: 서버 기록이나 감시 없이, 오직 당신의 하드웨어만이 열쇠가 됩니다.
@@ -21,7 +21,7 @@ bigvirtue1: [Official] The Next-Gen Encryption Standard (Unofficial World best n
 [ENGLISH]
 Introducing bigvirtue1, the world's most powerful encryption software designed to surpass all existing standards, including VeraCrypt. Created to safeguard individual history and irreplaceable memories that even nations fail to protect.
 
-    13-Layer Serial Chain Encryption: An unprecedented security depth that defies all conventional decryption methods.
+    20-Layer Serial Chain Encryption: An unprecedented security depth that defies all conventional decryption methods.
     Hardware-Bound Integrity: Logically locked to your specific PC hardware, making unauthorized cloning or data theft physically impossible.
     Quantum-Resistant Security: Utilizes external quantum private keys to ensure your data remains unbreakable, even in the age of quantum computing.
     Zero-Server Privacy: Operates entirely offline with no tracking or server logs. Your hardware is the only master key.
@@ -29,7 +29,7 @@ Introducing bigvirtue1, the world's most powerful encryption software designed t
 [YouTube 영상 섹션 추천 문구]
 [KOREAN]
 📺 실시간 구동 시연 (조작 없는 무결성 증명)
-윈도우 시스템 시계와 함께 촬영된 편집 없는 실시간 데모 영상을 확인하십시오. bigvirtue1의 13중 연쇄 암호화가 실제 환경에서 어떻게 '천하무적'의 보안을 구현하는지 직접 보실 수 있습니다.
+윈도우 시스템 시계와 함께 촬영된 편집 없는 실시간 데모 영상을 확인하십시오. bigvirtue1의 20중 연쇄 암호화가 실제 환경에서 어떻게 '천하무적'의 보안을 구현하는지 직접 보실 수 있습니다.
 
 ### 📺 공식 유튜브 채널 (실시간 구동 증명)
 **[KOREAN]**  
@@ -39,7 +39,7 @@ Introducing bigvirtue1, the world's most powerful encryption software designed t
 
 [ENGLISH]
 📺 Real-Time Technical Demonstration (Unedited Proof)
-Watch the live, unedited demonstration of bigvirtue1 featuring the system clock to ensure 100% integrity. Witness how the 13-layer chain encryption creates an "Invincible Shield" in real-world environments.
+Watch the live, unedited demonstration of bigvirtue1 featuring the system clock to ensure 100% integrity. Witness how the 20-layer chain encryption creates an "Invincible Shield" in real-world environments.
 
 ### 📺 Official YouTube channel (Proof of real-time working)
 **[ENGLISH]**  
@@ -55,7 +55,7 @@ bigvirtue1 is not just another encryption tool. It is a masterpiece born from 5 
 💎 Technical Excellence
 Hardware Binding: Ensures "Physical Integrity" by binding the software to specific hardware, making unauthorized access impossible without the designated device.
 
-13-Layer Encryption : Constructed with a formidable 13-layer encryption architecture logical safeguards that surpass existing security norms.
+20-Layer Encryption : Constructed with a formidable 20-layer encryption architecture logical safeguards that surpass existing security norms.
 
 Post-Quantum Cryptography (PQC): Future-proofed against quantum computing threats with triple-layer PQC algorithms: Kyber-1024, HQC, and Dilithium.
 
@@ -77,7 +77,7 @@ bigvirtue1은 단순한 보안 툴이 아닙니다. 5년이라는 긴 시간 동
 💎 핵심 기술력 (Key Features)
 하드웨어 바인딩 (Hardware Binding): 소프트웨어를 특정 하드웨어에 귀속시켜 물리적 장치 없이는 접근이 불가능한 '물리적 무결성'을 보장합니다.
 
-13중 암호화 보호: 현존하는 보안 체계를 압도하는 13중 레이어 암호화 논리적 보호막을 구축했습니다.
+20중 암호화 보호: 현존하는 보안 체계를 압도하는 13중 레이어 암호화 논리적 보호막을 구축했습니다.
 
 양자 내성 암호 (PQC): 미래의 위협인 양자 컴퓨터 공격을 무력화하기 위해 Kyber-1024, HQC, Dilithium의 3대 알고리즘을 탑재했습니다.
 
@@ -95,7 +95,7 @@ Nitrokey 3 & OpenPGP 통합: 글로벌 보안 표준인 Nitrokey 3와의 완벽�
 ​"The world is divided into two eras: before and after bigvirtue1."
 ​bigvirtue1 is the unofficial World No. 1 encryption solution that shatters existing security paradigms. By merging hardware binding with advanced software logic, it grants 'mathematical immortality' to your data. Developed through 5 years of relentless obsession and thousands of rigorous tests, this masterpiece offers real-world security far superior to legacy tools like VeraCrypt.
 ​🛡️ Core Technologies
-​12-Layer Serial Cascade Encryption: Builds 12 consecutive mathematical fortresses with a single click. It is a perfectly irreversible structure where each layer remains inaccessible unless the previous one is flawlessly decrypted.
+​20-Layer Serial Cascade Encryption: Builds 20 consecutive mathematical fortresses with a single click. It is a perfectly irreversible structure where each layer remains inaccessible unless the previous one is flawlessly decrypted.
 ​Physical Hardware Binding (HWID): Gives your data a 'physical body.' The algorithm itself refuses to execute unless matched with the user's specific hardware (CPU, Motherboard, etc.).
 ​Post-Quantum Cryptography (PQC): Pre-emptively blocks future quantum computer threats using Kyber-1024, HQC, and Dilithium algorithms.
 ​RSA 8192 & Triple-Key System: Blocks all hacking scenarios with an 8192-bit private key (far exceeding current standards) and a 5-layer password combination.
@@ -109,7 +109,7 @@ Nitrokey 3 & OpenPGP 통합: 글로벌 보안 표준인 Nitrokey 3와의 완벽�
 ​"세상은 bigvirtue1이 있는 시대와 없는 시대로 나뉩니다."
 ​bigvirtue1은 기존의 보안 패러다임을 파괴하고, 하드웨어와 소프트웨어의 완전한 결합을 통해 데이터에 '수학적 불멸성'을 부여하는 세계 비공식 1등 암호화 솔루션입니다. 5년의 집념과 수천 번의 테스트를 거쳐 완성된 이 명품 저작물은 VeraCrypt를 능가하는 압도적인 실전 보안을 제공합니다.
 ​🛡️ 핵심 기술 (Key Technologies)
-​12중 직렬 연쇄 암호화 (12-Layer Serial Cascade): 단 한 번의 클릭으로 12개의 수학적 절벽을 세웁니다. 앞 단계가 무너지지 않으면 다음 단계는 구경조차 할 수 없는 완벽한 비가역 구조입니다.
+​ⁿ[20중 직렬 연쇄 암호화 (20-Layer Serial Cascade): 단 한 번의 클릭으로 20개의 수학적 절벽을 세웁니다. 앞 단계가 무너지지 않으면 다음 단계는 구경조차 할 수 없는 완벽한 비가역 구조입니다.
 ​물리적 하드웨어 바인딩 (HWID Binding): 데이터에 '육체'를 부여합니다. 사용자의 특정 PC(CPU, 메인보드 등)가 아니면 알고리즘 자체가 계산을 거부합니다.
 ​양자 내성 암호 (PQC): 미래의 위협인 양자 컴퓨터 공격을 선제적으로 차단하기 위해 Kyber-1024, HQC, Dilithium 알고리즘을 탑재했습니다.
 ​RSA 8192 & 삼중 열쇠: 표준을 아득히 초월한 8192비트 개인키와 5중 비밀번호 조합으로 해킹 시나리오를 원천 봉쇄합니다.
@@ -124,7 +124,7 @@ Nitrokey 3 & OpenPGP 통합: 글로벌 보안 표준인 Nitrokey 3와의 완벽�
 
 1. [🛡️ Post-Quantum Security Logic](https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god/blob/main/docs/pqc-security.md)
 2. [🔐 Hardware-Binding Architecture](https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god/blob/main/docs/hardware-binding.md)
-3. [🧬 30-Layer Redundant Encryption](https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god/blob/main/docs/multi-layer.md)
+3. [🧬 20-Layer Redundant Encryption](https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god/blob/main/docs/multi-layer.md)
 4. [👁️ Anti-Forensics & Zero-Trace](https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god/blob/main/docs/anti-forensics.md)
 5. [💎 Developer's Sovereignty & Philosophy](https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god/blob/main/docs/philosophy.md)
 
@@ -214,7 +214,7 @@ This video shows the real-life running of bigvirtue1, where hardware and softwar
 
 [Official] bigvirtue1: The Next-Gen Encryption Standard (Unofficial World #1)
 
-VeraCrypt를 압도하는 9중 보안의 실체 - bigvirtue1 하드웨어 바인딩 시연
+VeraCrypt를 압도하는 20중 보안의 실체 - bigvirtue1 하드웨어 바인딩 시연
 
 2. 영상 설명 (Description)
 "보안은 타협의 대상이 아니라, 무결성의 실현입니다."
@@ -227,7 +227,7 @@ Quantum-Resistant: Kyber, HQC, Dilithium 기반 양자 내성 암호 적용
 
 Hardware Binding: NK1+NK2 이중 하드웨어 키 결속 및 9중 인증
 
-Multi-Layer Security: 전례 없는 30중 암호화 레이어 구현
+Multi-Layer Security: 전례 없는 20중 암호화 레이어 구현
 
 Secure Delete: 데이터 무결성을 위한 원본 3회 덮어쓰기 안전 삭제
 
@@ -249,11 +249,11 @@ Physical Integrity: Internal Random Number Generation (TRNG) and Private Key man
 ⚠️ LEGAL WARNING: BigVirtue1 is a proprietary masterpiece protected by an 8-Layer Integrity Guard. Any attempt at unauthorized duplication, reverse engineering, or identity theft of this technology will be met with the full weight of technological and legal countermeasures.
 Dual Hardware Security Keys (이중 하드웨어 보안키 연동)
 Shamir's Secret Sharing & Maximized Randomness (샤미르 분할 및 무작위성 극대화)
-Advanced 9-Layer Encryption (VeraCrypt를 압도하는 9중 암호화)
+Advanced 20-Layer Encryption (VeraCrypt를 압도하는 20중 암호화)
 [Latest Security Update: Hardware-Level Protection]
 Dual Hardware Security Keys: Beyond traditional 2FA, this system integrates two physical security keys simultaneously, creating an impregnable physical barrier against unauthorized access.
 Shamir's Secret Sharing (SSS): Implements advanced mathematical key splitting and enhanced randomness, elevating personal data protection to a state-of-the-art cryptographic standard.
-Beyond VeraCrypt: Combining a 9-layer encryption engine with hardware-level security, Bigvirtue1 provides a superior level of trust and privacy that surpasses conventional industry standards.
+Beyond VeraCrypt: Combining a 20-layer encryption engine with hardware-level security, Bigvirtue1 provides a superior level of trust and privacy that surpasses conventional industry standards.
 bigvirtue1 is NOT a general-purpose encryption tool like VeraCrypt.
 It is a hardware-bound, developer-sovereign encryption system
 that uses trusted hardware public keys as the root of trust.
@@ -275,7 +275,7 @@ bigvirtue1은 타협하지 않는 데이터 무결성을 위해 탄생한 차세
 
 이중 하드웨어 보안키 연동: 단일 키의 한계를 넘어, 2개의 물리적 보안키를 동시에 사용하는 이중 인증 체계를 구축하여 물리적 탈취로부터 데이터를 완벽히 보호합니다.
 샤미르 비밀 공유(SSS) 적용: 암호화 키를 수학적으로 분할하여 관리하며, 무작위성(Randomness)을 극대화해 개인용 소프트웨어 중 세계 최고 수준의 보안성을 지향합니다.
-VeraCrypt 초월: 기존 표준을 넘어 9중 암호화와 하드웨어 계층의 결합으로 그 어떤 침입도 허용하지 않는 'Privacy Guardian God'의 가치를 실현합니다.
+VeraCrypt 초월: 기존 표준을 넘어 20중 암호화와 하드웨어 계층의 결합으로 그 어떤 침입도 허용하지 않는 'Privacy Guardian God'의 가치를 실현합니다.
 bigvirtue1은 VeraCrypt와 같은 범용 암호화 도구가 아닙니다. 이 프로젝트는 
 신뢰된 하드웨어 공개키를 신뢰 루트로 사용하는 하드웨어 종속·개발자 주권형 암호화 시스템입니다.
 공개 검증이나 비밀번호 기반 보안을 전제로 하지 않으며,VeraCrypt가 다루지 않는 위협 모델을 목표로 합니다.
