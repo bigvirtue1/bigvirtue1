@@ -11,7 +11,7 @@ Parties interested in acquiring the **bigvirtue1** IP are requested to submit a 
 3. **Proposed Terms:** Estimated acquisition price and preferred transfer timeline.
 4. **Technology Transfer:** Whether on-site technical training/consulting from the developer is required.
 
-* **Submission:** [이메일 주소 기입]
+* **Submission:** [bigvirtue1@naver.com]
 * **Note:** Upon review of the LOI, a Non-Disclosure Agreement (NDA) will be issued to share detailed technical documentation and audit results.
 
 **[한글]**
@@ -22,7 +22,7 @@ Parties interested in acquiring the **bigvirtue1** IP are requested to submit a 
 3. **제안 조건:** 희망 인수 가격 및 판권 이전 희망 시기.
 4. **기술 전수:** 개발자의 직접적인 기술 교육 및 컨설팅 지원 필요 여부.
 
-* **제출처:** [이메일 주소 기입]
+* **제출처:** [bigvirtue1@naver.com]
 * **참고:** 의향서 검토 후, 세부 기술 문서 및 수천 회의 테스트 결과 보고서 공유를 위한 비밀유지계약(NDA) 절차가 진행될 예정입니다.
 
 ---
