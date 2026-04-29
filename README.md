@@ -6,6 +6,43 @@ The **bigvirtue1** project, a next-generation encryption standard engineered to 
 # 📢 NOTICE: bigvirtue1 Full Rights & Intellectual Property Sale
 # 📢 bigvirtue1 암호화 솔루션 전권(판권) 매각 공지
 
+<img width="1408" height="768" alt="bigvirtue1" src="https://github.com/user-attachments/assets/728fc5a8-6af3-4590-8542-9896ebed03c0" />
+
+---
+
+📽️ Video 1: Hardware Binding & Next-Gen Standard
+
+https://github.com/user-attachments/assets/6b233ac0-85ae-4b21-a04f-ce91107467bb
+
+​[English]
+
+The New Paradigm of Encryption: Surpassing Global Standards.
+
+This video demonstrates the core integrity of bigvirtue1, a masterpiece engineered through five years of relentless technical struggle. Unlike conventional tools, it integrates advanced hardware binding with a 9-layer authentication system, ensuring that data access is fundamentally tied to physical ownership. Experience the unofficial world #1 security solution that sets a new benchmark beyond VeraCrypt.
+
+​[한국어]
+
+암호화의 새로운 패러다임: 글로벌 표준을 압도하다.
+
+이 영상은 5년의 사투 끝에 완성된 bigvirtue1의 핵심 무결성 메커니즘을 시연합니다. 기존의 도구들과 달리, 고도의 하드웨어 바인딩과 9중 인증 체계를 통합하여 데이터 접근 권한을 물리적 소유권과 근본적으로 결합했습니다. VeraCrypt를 넘어선 새로운 기준, 세계 비공식 1등 보안 솔루션의 위엄을 확인하십시오.
+
+📽️ Video 2: Quantum-Resistant Algorithms (Kyber/HQC)
+
+
+https://github.com/user-attachments/assets/77f706a1-f2ae-4025-b48e-48dc736347cc
+
+[English]
+
+Defying the Future: Quantum-Resistant Security Architecture.
+
+Behold the seamless implementation of Kyber, HQC, and Dilithium algorithms. bigvirtue1 is designed to withstand the threats of the upcoming quantum era through its sophisticated 30-layer encryption framework. This is the result of thousands of rigorous tests and deep architectural refinement—a definitive shield for your most vital digital assets.
+
+​[한국어]
+
+미래를 압도하는 기술: 양자 내성 보안 아키텍처.
+
+Kyber, HQC, Dilithium 알고리즘의 완벽한 구현을 목격하십시오. bigvirtue1은 30중 암호화 프레임워크를 통해 다가올 양자 시대의 위협까지 완벽히 차단하도록 설계되었습니다. 수천 번의 가혹한 테스트와 깊이 있는 구조적 개선이 빚어낸 결과물로, 귀하의 가장 소중한 디지털 자산을 위한 결정적인 방패가 되어줄 것입니다.
+
 ---
 
 ### [English]
