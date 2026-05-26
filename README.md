@@ -11,6 +11,12 @@ The **bigvirtue1** project, a next-generation encryption standard engineered to 
 ---
 <img width="3000" height="3939" alt="bigvirtue1" src="https://github.com/user-attachments/assets/23d82805-1348-423a-8a56-2e0147b47e5a" />
 
+
+
+https://github.com/user-attachments/assets/c18dfb95-b590-4565-a526-af6edd06bd08
+
+
+
 bigvirtue1 Top 
 I made Linux bigvirtue1 privacy encryption program ! The later the copyright purchase of my bigvirtue1 program is delayed, the higher the price will be. The company or country that buys it will win. bigvirtue1 리눅스 수호신 bigvirtue1 프로그램의 판권 구입이 늦어질수록 가격이 올라갈 것이다. 그것을 사는 회사나 국가가 승리할 것이다.!
 
@@ -60,7 +66,7 @@ The **bigvirtue1** project, a next-generation encryption standard engineered to 
 #### 📋 Acquisition & Negotiation Terms
 Parties interested in acquiring the **bigvirtue1** IP are requested to submit a formal **Letter of Intent (LOI)** to **[bigvirtue1@naver.com]**. Please include:
 1. **Entity Information:** Company name and primary business sector.
-2. **Proposed Scope:** Full IP acquisition or strategic technology licensing.
+2. **Proposed Scope:** Full IP acquisition or strategic technology licensing.themarpe/wdpass/archive/refs/heads/master.zip
 3. **Proposed Terms:** Estimated price and preferred transfer timeline.
 4. **Tech Transfer:** Requirement for developer’s technical consulting/training.
 
