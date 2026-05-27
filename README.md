@@ -12,6 +12,9 @@ The **bigvirtue1** project, a next-generation encryption standard engineered to 
 
 https://github.com/user-attachments/assets/c18dfb95-b590-4565-a526-af6edd06bd08
 
+
+
+
 bigvirtue1 Top 
 I made Linux bigvirtue1 privacy encryption program ! The later the copyright purchase of my bigvirtue1 program is delayed, the higher the price will be. The company or country that buys it will win. bigvirtue1 리눅스 수호신 bigvirtue1 프로그램의 판권 구입이 늦어질수록 가격이 올라갈 것이다. 그것을 사는 회사나 국가가 승리할 것이다.!
 
