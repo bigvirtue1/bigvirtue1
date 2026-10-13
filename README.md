@@ -115,12 +115,6 @@ BigVirtue1 Paint (BigVirtue1)
 Zero-Trace, Post-Quantum Encrypted Canvas & Secure Document Vault
 
 무흔적(Zero-Trace) 메모리 보안 및 양자 내성 3중 연쇄 암호화 보관함
-
-BigVirtue1 Paint (BigV)
-Zero-Trace, Post-Quantum Encrypted Canvas & Secure Document Vault
-
-무흔적(Zero-Trace) 메모리 보안 및 양자 내성 3중 연쇄 암호화 보관함
-
 ==================================================
 ENGLISH
 BigVirtue1 Paint is a high-security visual canvas and text vault designed for complete privacy and operational isolation. Combining post-quantum key encapsulation with cascading symmetric encryption and kernel-level anti-forensic memory protections, BigVirtue1 ensures zero persistent trace—both on disk and in volatile memory (RAM).
@@ -171,7 +165,7 @@ Drag and drop the received .biglic file into the program window to complete acti
 
 [Cryptographic Architecture]
 
-Post-Quantum Hybrid KEM: NIST CNSA 2.0 ML-KEM-1024 combined with X25519 (Roadmap: Dual-KEM with Classic McEliece-8192128f).
+Dual Post-Quantum Hybrid KEM: NIST CNSA 2.0 ML-KEM-1024 + X25519 combined with Classic McEliece-8192128f.
 
 Symmetric Cascade Pipeline: XChaCha20-Poly1305 -> Serpent-256-CTR (HMAC-SHA512) -> AES-256-GCM across 64KB chunks.
 
@@ -215,7 +209,7 @@ BigVirtue1 Paint는 상용 소프트웨어로서 윈도우즈와 리눅스를 �
 
 무료판의 모든 핵심 보안 및 암호화 기능 포함.
 
-최고 수준 2중 양자 내성(Dual-KEM): 격자 기반 ML-KEM-1024와 40년 검증 부호 기반 Classic McEliece-8192128f + SHA-3 결합 구조 탑재 예정.
+최고 수준 2중 양자 내성(Dual-KEM): 격자 기반 ML-KEM-1024와 40년 이상 검증된 부호 기반 Classic McEliece-8192128f + SHA-3 결합 구조 탑재 예정.
 
 TPM 2.0 하드웨어 암호화 (선택 체크 버튼): 저장 시 TPM 체크 버튼을 켜면 해당 물리적 PC 하드웨어 칩에 암호키가 귀속되어, 파일이 외부로 유출되어도 타 PC에서 절대 열리지 않습니다.
 
@@ -241,7 +235,7 @@ TPM 2.0 하드웨어 암호화 (선택 체크 버튼): 저장 시 TPM 체크 버
 
 [핵심 보안 설계]
 
-2중 양자 내성 하이브리드 암호화: NIST 표준 ML-KEM-1024 + X25519 결합 (Classic McEliece-8192128f 추가 결합 로드맵).
+2중 양자 내성 하이브리드 암호화: NIST 표준 ML-KEM-1024 + X25519 결합 및 Classic McEliece-8192128f 추가 결합 로드맵.
 
 3겹 연쇄 대칭 암호화: XChaCha20-Poly1305 -> Serpent-256-CTR -> AES-256-GCM (64KB 청크 독립 변조 검증).
 
