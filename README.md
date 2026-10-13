@@ -6,13 +6,13 @@
 
 <br>
 
-[🇺🇸 English](#english-section) &nbsp;&nbsp;|&nbsp;&nbsp; [🇰🇷 한국어 (Korean)](#korean-section)
+[🇺🇸 English](#english) &nbsp;&nbsp;|&nbsp;&nbsp; [🇰🇷 한국어 (Korean)](#한국어-korean)
 
 </div>
 
 ---
 
-## <span id="english-section">English</span>
+## English
 
 BigVirtue1 Paint is a privacy-focused visual canvas and secure document vault designed to protect private notes, text, and documents through layered encryption, post-quantum cryptographic techniques, and operating-system-level memory protections.
 
