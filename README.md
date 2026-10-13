@@ -131,42 +131,6 @@ BigVirtue1 Paint는 상용 소프트웨어로서 윈도우즈와 리눅스를 �
 ### [출시 안내]
 * 현재 정식 배포용 실행 파일의 최종 검증 및 릴리즈 준비 중입니다.
 
-#### [Release Status]
-* Official release builds are currently undergoing final testing and preparation.
-
----
-
-## 한국어
-
-BigVirtue1 Paint는 Windows와 Linux용 개인정보 보호 캔버스 및 암호화 문서 보관 프로그램입니다. 다중 대칭키 암호화, 양자 내성 암호 기술, 운영체제 수준의 메모리 보호 기법을 활용해 개인 메모와 문서를 안전하게 보관하도록 설계되었습니다.
-
-* **무료판:** 기기 ID를 이메일로 보내 무료 라이선스를 신청할 수 있습니다.
-* **유료판(Pro):** 추가 하드웨어 연동 및 확장 보안 기능을 제공합니다.
-* **출시 예정일:** 2026년 12월 24일
-* **무료 라이선스 신청:** bigvirtue1@naver.com
-
----
-
-BigVirtue1 Paint는 완벽한 개인정보 보호와 데이터 격리를 위해 설계된 고보안 캔버스 및 텍스트 보관함입니다. 양자 컴퓨팅 위협에 대응하는 키 교환 알고리즘과 3중 중첩 대칭 암호화, 운영체제 커널 레벨의 메모리 방어 기법을 적용하여 디스크와 램(RAM) 전 영역에서 포렌식 흔적을 남기지 않습니다.
-
-BigVirtue1 Paint는 상용 소프트웨어로서 윈도우즈와 리눅스를 위한 무설치 포터블 실행 파일로 배포될 예정입니다. 무료판과 유료판 모두 기기 고유 식별값에 등록되는 라이선스 파일(`.biglic`)을 통해 정품 인증 후 실행됩니다.
-
-### [에디션 및 라이선스 정책]
-
-#### 무료판 (무료 라이선스 발급)
-* **핵심 3중 암호화:** XChaCha20-Poly1305 -> Serpent-256-CTR -> AES-256-GCM 연쇄 암호화 지원.
-* **양자 내성 보호:** ML-KEM-1024 하이브리드 봉투 구조 및 BIP-39 기반 24단어 양자 복구 지원.
-* **커널 레벨 무흔적 방어:** `mlockall` 전체 메모리 잠금, 디버거/덤프 차단(`PR_SET_DUMPABLE=0`), 로그아웃 시 메모리 제로화.
-* **안전 보관 및 통신 차단:** 작업 중 자동 네트워크 격리, 정전 대비 안전 쓰기(`.tmp`/`.old`) 복구 파이프라인.
-* *무료판 역시 기기 등록용 라이선스 파일(`.biglic`)을 무료로 발급받아 등록해야 실행됩니다.*
-
-#### 유료판 (Pro 상용 라이선스)
-* 무료판의 모든 핵심 보안 및 암호화 기능 포함.
-* **최고 수준 2중 양자 내성 (Dual-KEM):** 격자 기반 ML-KEM-1024와 40년 이상 검증된 부호 기반 Classic McEliece-8192128f + SHA-3 결합 구조 탑재 예정.
-* **TPM 2.0 하드웨어 암호화 (선택 체크 버튼):** 저장 시 TPM 체크 버튼을 켜면 해당 물리적 PC 하드웨어 칩에 암호키가 귀속되어, 파일이 외부로 유출되어도 타 PC에서 절대 열리지 않습니다.
-* **다요소 개별 잠금:** QR 열쇠, 직접 그린 획 난수를 합성하는 그림열쇠, 양자 개인키(`.bvsec`) 개별 잠금.
-* **하
-
 The **bigvirtue1** project, a next-generation encryption standard engineered to surpass industry benchmarks like VeraCrypt, is now officially open for acquisition. This masterpiece is the result of 7 years of rigorous development and thousands of integrity tests.
 
 "We are seeking a partner capable of preserving the integrity of this bigvirtue1 7-year masterpiece and elevating it to a global security standard."
