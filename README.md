@@ -1,8 +1,8 @@
-BigVirtue1 Paint
-Zero-Trace Privacy Canvas & Encrypted Document Vault
-Windows & Linux · Free Edition & Pro Edition · Device-Bound Licensing
+# BigVirtue1 Paint
+## Zero-Trace Privacy Canvas & Encrypted Document Vault
+## Windows & Linux · Free Edition & Pro Edition · Device-Bound Licensing
 
-BigVirtue1 Paint is a privacy-focused visual canvas and secure document vault designed to protect private notes, text, and documents through layered encryption, post-quantum cryptographic techniques, and operating-system-level memory protections.
+## BigVirtue1 Paint is a privacy-focused visual canvas and secure document vault designed to protect private notes, text, and documents through layered encryption, post-quantum cryptographic techniques, and operating-system-level memory protections.
 
 Key Features
 Triple-Layer Encryption: XChaCha20-Poly1305 → Serpent-256-CTR → AES-256-GCM.
