@@ -1,168 +1,71 @@
+<div align="center">
+
 # BigVirtue1 Paint
-## Zero-Trace Privacy Canvas & Encrypted Document Vault
-## Windows & Linux · Free Edition & Pro Edition · Device-Bound Licensing
-
-## BigVirtue1 Paint is a privacy-focused visual canvas and secure document vault designed to protect private notes, text, and documents through layered encryption, post-quantum cryptographic techniques, and operating-system-level memory protections.
-
-Key Features
-Triple-Layer Encryption: XChaCha20-Poly1305 → Serpent-256-CTR → AES-256-GCM.
-Post-Quantum Cryptography: ML-KEM-1024-based key encapsulation.
-Memory Protection: Memory locking, process dump restrictions, and explicit memory clearing where supported.
-Offline-Focused Privacy: Designed to minimize network exposure.
-Windows & Linux: Portable application editions planned for both platforms.
-Free & Pro Editions
-Free Edition: A complimentary device-bound license is available by email request.
-Pro Edition: Includes additional security features such as optional TPM 2.0 integration, hardware security token support, and extended encrypted storage features.
-How to Request a Free License
-Run BigVirtue1 Paint on your Windows or Linux device.
-Click Copy Device ID on the license activation screen.
-Email your Device ID to bigvirtue1@naver.com to request a free license.
-Import the issued .biglic file to activate the application.
-Release Information
-The official release is planned for December 24, 2026 (Christmas Eve). Final release preparation and testing are underway.
-
-한국어 소개
-BigVirtue1 Paint는 Windows와 Linux용 개인정보 보호 캔버스 및 암호화 문서 보관 프로그램입니다. 다중 대칭키 암호화, 양자 내성 암호 기술, 운영체제 수준의 메모리 보호 기법을 활용해 개인 메모와 문서를 안전하게 보관하도록 설계되었습니다.
-
-무료판: 기기 ID를 이메일로 보내 무료 라이선스를 신청할 수 있습니다.
-유료판(Pro): 추가 하드웨어 연동 및 확장 보안 기능을 제공합니다.
-출시 예정일: 2026년 12월 24일
-무료 라이선스 신청: bigvirtue1@naver.com
-Detailed Technical Documentation
-
-[Editions & Licensing]
-
-Free Edition (Complimentary License)
-
-Core Triple Encryption: Full 3-layer cascade (XChaCha20-Poly1305 -> Serpent-256-CTR -> AES-256-GCM).
-
-Post-Quantum Protection: ML-KEM-1024 hybrid envelope and BIP-39 24-word recovery.
-
-Kernel-Level Anti-Forensics: Memory locking (mlockall), dump blocking (PR_SET_DUMPABLE), and explicit zeroization.
-
-Safe Storage & Network Guard: Automatic offline network isolation and atomic crash-proof writing.
-
-A free license (.biglic) issued for your Device ID is required to run.
-
-Pro Edition (Commercial License)
-
-Includes all Free Edition capabilities.
-
-Advanced Dual Post-Quantum Layer: Hybrid integration of Lattice-based ML-KEM-1024 and Code-based Classic McEliece-8192128f + SHA-3.
-
-Hardware TPM Binding (Optional Checkbox): Optional hardware sealing via TPM 2.0. When checked, encrypted data can only be unlocked on the designated physical machine.
-
-Multi-Factor Individual Locks: QR keys, hand-drawn vector stroke keys, and quantum private key (.bvsec) locking.
-
-Hardware Token Profiles: Nitrokey FIDO2 token integration and memory lock profile persistence.
-
-Extended Format: Support for multi-item encrypted bundles (.bv1x).
-
-Zero Data Lock-In Guarantee: Files created with Pro features can always be decrypted and viewed in the Free Edition using the matching key files (.key / recovery phrase).
-
-[How to Activate (Free & Pro)]
-
-Run BigVirtue1 Paint for your OS (Windows or Linux).
-
-On first launch, the License Activation screen will appear.
-
-Click [Copy Device ID] (Format: BIGV-HW1-...).
-
-Request your .biglic license file via email or the official community channel.
-
-Drag and drop the received .biglic file into the program window to complete activation.
-
-[Cryptographic Architecture]
-
-Dual Post-Quantum Hybrid KEM: NIST CNSA 2.0 ML-KEM-1024 + X25519 combined with Classic McEliece-8192128f.
-
-Symmetric Cascade Pipeline: XChaCha20-Poly1305 -> Serpent-256-CTR (HMAC-SHA512) -> AES-256-GCM across 64KB chunks.
-
-Hardware Sealing: Optional TPM 2.0 hardware binding toggle for complete physical machine isolation.
-
-Anti-Forensics: Linux mlockall(MCL_ONFAULT) prevents paging to disk; core dumps and ptrace inspection disabled.
-
-Verified Zero-Trace: Automated real-memory testing confirms 0-byte residue for passphrases, buffers, and private keys upon logout.
-
-[System Requirements & Notes]
-
-Windows: 64-bit Windows 10 / 11. (If SmartScreen appears, click 'More info' -> 'Run anyway').
-
-Linux: Modern 64-bit distributions (Ubuntu, Mint, Debian, Arch, Fedora). Ensure execute permissions (chmod +x bigvirtue1-paint).
-
-[Release Status]
-
-Official release builds are currently undergoing final testing and preparation.
-
-==================================================
-한국어 (KOREAN)
-BigVirtue1 Paint는 완벽한 개인정보 보호와 데이터 격리를 위해 설계된 고보안 캔버스 및 텍스트 보관함입니다. 양자 컴퓨팅 위협에 대응하는 키 교환 알고리즘과 3중 중첩 대칭 암호화, 운영체제 커널 레벨의 메모리 방어 기법을 적용하여 디스크와 램(RAM) 전 영역에서 포렌식 흔적을 남기지 않습니다.
-
-BigVirtue1 Paint는 상용 소프트웨어로서 윈도우즈와 리눅스를 위한 무설치 포터블 실행 파일로 배포될 예정입니다. 무료판과 유료판 모두 기기 고유 식별값에 등록되는 라이선스 파일(.biglic)을 통해 정품 인증 후 실행됩니다.
-
-[에디션 및 라이선스 정책]
-
-무료판 (무료 라이선스 발급)
-
-핵심 3중 암호화: XChaCha20-Poly1305 -> Serpent-256-CTR -> AES-256-GCM 연쇄 암호화 지원.
-
-양자 내성 보호: ML-KEM-1024 하이브리드 봉투 구조 및 BIP-39 기반 24단어 양자 복구 지원.
-
-커널 레벨 무흔적 방어: mlockall 전체 메모리 잠금, 디버거/덤프 차단, 로그아웃 시 메모리 제로화.
-
-안전 보관 및 통신 차단: 작업 중 자동 네트워크 격리, 정전 대비 안전 쓰기(.tmp/.old) 복구 파이프라인.
-
-무료판 역시 기기 등록용 라이선스 파일(.biglic)을 무료로 발급받아 등록해야 실행됩니다.
-
-유료판 (Pro 상용 라이선스)
-
-무료판의 모든 핵심 보안 및 암호화 기능 포함.
-
-최고 수준 2중 양자 내성(Dual-KEM): 격자 기반 ML-KEM-1024와 40년 이상 검증된 부호 기반 Classic McEliece-8192128f + SHA-3 결합 구조 탑재 예정.
-
-TPM 2.0 하드웨어 암호화 (선택 체크 버튼): 저장 시 TPM 체크 버튼을 켜면 해당 물리적 PC 하드웨어 칩에 암호키가 귀속되어, 파일이 외부로 유출되어도 타 PC에서 절대 열리지 않습니다.
-
-다요소 개별 잠금: QR 열쇠, 직접 그린 획 난수를 합성하는 그림열쇠, 양자 개인키(.bvsec) 개별 잠금.
-
-하드웨어 보안 토큰: Nitrokey FIDO2 보안키 연동 및 잠금 프로필 기억 지원.
-
-묶음 파일 형식: 단일 파일 외 대용량 복합 보관함(.bv1x) 지원 예정.
-
-사용자 데이터 영구 보호 원칙: 유료판의 특수 열쇠로 암호화한 파일이라도 기본 키(.key)나 24단어 복구 키가 있으면 무료판에서도 언제든 정상 복호화 및 열람이 가능합니다.
-
-[라이선스 등록 및 실행 순서]
-
-프로그램 실행 파일을 실행합니다.
-
-처음 실행하면 라이선스 등록 화면만 나타납니다.
-
-[기기 코드 복사] 버튼을 눌러 본인의 기기 고유 코드(BIGV-HW1-...)를 복사합니다.
-
-안내된 배포처(이메일 또는 문의처)로 기기 코드를 보내 라이선스를 신청합니다.
-
-발급받은 .biglic 파일을 등록 창으로 끌어다 놓거나 선택하면 즉시 인증이 완료되어 프로그램이 시작됩니다.
-
-[핵심 보안 설계]
-
-2중 양자 내성 하이브리드 암호화: NIST 표준 ML-KEM-1024 + X25519 결합 및 Classic McEliece-8192128f 추가 결합 로드맵.
-
-3겹 연쇄 대칭 암호화: XChaCha20-Poly1305 -> Serpent-256-CTR -> AES-256-GCM (64KB 청크 독립 변조 검증).
-
-하드웨어 격리: 체크 한 번으로 활성화되는 TPM 2.0 칩셋 물리적 바인딩 지원.
-
-커널 레벨 메모리 보호: 리눅스 mlockall 메모리 잠금으로 스왑 파일 생성 방지, PR_SET_DUMPABLE=0으로 메모리 덤프 차단.
-
-메모리 무흔적 검증 통과: 실제 프로세스 덤프 분석 결과, 로그아웃 시 암호문·평문·개인키의 잔류 흔적 0건 통과.
-
-[지원 환경 및 실행 안내]
-
-Windows: 64비트 Windows 10 / 11 (SmartScreen 경고창이 뜨면 '추가 정보' -> '실행' 선택).
-
-Linux: 최신 64비트 배포판 (Ubuntu, Mint, Debian, Arch, Fedora 등). 다운로드 후 실행 권한 부여 필요 (chmod +x bigvirtue1-paint).
-
-[출시 안내]
-
-현재 정식 배포용 실행 파일의 최종 검증 및 릴리즈 준비 중입니다.
+**Zero-Trace Privacy Canvas & Encrypted Document Vault**  
+*Windows & Linux · Free Edition & Pro Edition · Device-Bound Licensing*
+
+[English](#english) | [한국어](#korean)
+
+</div>
+
+---
+
+<a name="english"></a>
+## English
+
+BigVirtue1 Paint is a privacy-focused visual canvas and secure document vault designed to protect private notes, text, and documents through layered encryption, post-quantum cryptographic techniques, and operating-system-level memory protections.
+
+### Key Features
+* **Triple-Layer Cascade Encryption:** XChaCha20-Poly1305 → Serpent-256-CTR → AES-256-GCM across 64KB authenticated chunks.
+* **Post-Quantum Cryptography:** NIST CNSA 2.0 ML-KEM-1024 hybrid envelope and BIP-39 24-word recovery.
+* **OS-Level Anti-Forensics:** Memory locking (`mlockall`), core dump restrictions (`PR_SET_DUMPABLE`), and automated zeroization.
+* **Offline Network Guard:** Automated network isolation during runtime to prevent data leakage.
+* **Cross-Platform Portability:** Standalone portable binaries for 64-bit Windows and Linux.
+
+---
+
+### Editions & Licensing
+
+#### Free Edition (Complimentary License)
+* **Core Cryptography:** Full 3-layer symmetric cascade pipeline.
+* **Post-Quantum Security:** ML-KEM-1024 key encapsulation and BIP-39 24-word phrase recovery.
+* **Kernel-Level Anti-Forensics:** Memory locking (`mlockall`), dump blocking (`PR_SET_DUMPABLE`), and explicit zeroization.
+* **Safe Storage & Network Guard:** Automatic offline network isolation and atomic crash-proof writing (`.tmp` / `.old`).
+* *Requires a complimentary device-bound license file (`.biglic`).*
+
+#### Pro Edition (Commercial License)
+* Includes all Free Edition capabilities.
+* **Advanced Dual Post-Quantum Layer:** Hybrid integration of Lattice-based ML-KEM-1024 and Code-based Classic McEliece-8192128f + SHA-3.
+* **Hardware TPM 2.0 Binding:** Optional hardware sealing via TPM 2.0 to restrict decryption strictly to the host physical machine.
+* **Multi-Factor Individual Locks:** QR keys, hand-drawn vector stroke keys, and quantum private key (`.bvsec`) locking.
+* **Hardware Token Profiles:** Nitrokey FIDO2 token integration and memory lock profile persistence.
+* **Extended Format:** Support for multi-item encrypted bundles (`.bv1x`).
+* **Zero Data Lock-In Guarantee:** Files created with Pro features can always be decrypted and viewed in the Free Edition using the matching key files (`.key` / recovery phrase).
+
+---
+
+### How to Activate
+1. Run `BigVirtue1 Paint` on your Windows or Linux device.
+2. Click **[Copy Device ID]** on the license activation screen (Format: `BIGV-HW1-...`).
+3. Email your Device ID to **`bigvirtue1@naver.com`** to request a free license.
+4. Drag and drop the issued `.biglic` file into the program window to complete activation.
+
+---
+
+### Cryptographic Architecture
+* **Dual Post-Quantum Hybrid KEM:** NIST CNSA 2.0 ML-KEM-1024 + X25519 combined with Classic McEliece-8192128f.
+* **Symmetric Cascade Pipeline:** XChaCha20-Poly1305 → Serpent-256-CTR (HMAC-SHA512) → AES-256-GCM across 64KB independent chunks.
+* **Hardware Sealing:** Optional TPM 2.0 hardware binding toggle for physical machine isolation.
+* **Anti-Forensics:** Linux `mlockall(MCL_ONFAULT)` prevents paging to disk; core dumps and ptrace inspection disabled.
+* **Verified Zero-Trace:** Automated real-memory testing confirms 0-byte residue for passphrases, buffers, and private keys upon logout.
+
+---
+
+### System Requirements & Notes
+* **Windows:** 64-bit Windows 10 / 11. *(If SmartScreen appears, click 'More info' → 'Run anyway')*
+* **Linux:** Modern 64-bit distributions (Ubuntu, Mint, Debian, Arch, Fedora). Ensure execute permissions:
+  ```bash
+  chmod +x bigvirtue1-paint
 
 The **bigvirtue1** project, a next-generation encryption standard engineered to surpass industry benchmarks like VeraCrypt, is now officially open for acquisition. This masterpiece is the result of 7 years of rigorous development and thousands of integrity tests.
 
