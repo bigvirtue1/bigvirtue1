@@ -4,10 +4,6 @@
 **Zero-Trace Privacy Canvas & Encrypted Document Vault**  
 *Windows & Linux · Free Edition & Pro Edition · Device-Bound Licensing*
 
-<br>
-
-[🇺🇸 English](#english) &nbsp;&nbsp;|&nbsp;&nbsp; [🇰🇷 한국어 (Korean)](#한국어-korean)
-
 </div>
 
 ---
