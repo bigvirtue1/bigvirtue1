@@ -1,12 +1,34 @@
-BigVirtue1 Paint (BigVirtue1)
-Zero-Trace, Post-Quantum Encrypted Canvas & Secure Document Vault
+BigVirtue1 Paint
+Zero-Trace Privacy Canvas & Encrypted Document Vault
+Windows & Linux · Free Edition & Pro Edition · Device-Bound Licensing
 
-무흔적(Zero-Trace) 메모리 보안 및 양자 내성 3중 연쇄 암호화 보관함
-==================================================
-ENGLISH
-BigVirtue1 Paint is a high-security visual canvas and text vault designed for complete privacy and operational isolation. Combining post-quantum key encapsulation with cascading symmetric encryption and kernel-level anti-forensic memory protections, BigVirtue1 ensures zero persistent trace—both on disk and in volatile memory (RAM).
+BigVirtue1 Paint is a privacy-focused visual canvas and secure document vault designed to protect private notes, text, and documents through layered encryption, post-quantum cryptographic techniques, and operating-system-level memory protections.
 
-BigVirtue1 Paint is proprietary software distributed as pre-compiled, portable binaries for Windows and Linux. Both Free and Pro editions require a registered license key file (.biglic) bound to device hardware.
+Key Features
+Triple-Layer Encryption: XChaCha20-Poly1305 → Serpent-256-CTR → AES-256-GCM.
+Post-Quantum Cryptography: ML-KEM-1024-based key encapsulation.
+Memory Protection: Memory locking, process dump restrictions, and explicit memory clearing where supported.
+Offline-Focused Privacy: Designed to minimize network exposure.
+Windows & Linux: Portable application editions planned for both platforms.
+Free & Pro Editions
+Free Edition: A complimentary device-bound license is available by email request.
+Pro Edition: Includes additional security features such as optional TPM 2.0 integration, hardware security token support, and extended encrypted storage features.
+How to Request a Free License
+Run BigVirtue1 Paint on your Windows or Linux device.
+Click Copy Device ID on the license activation screen.
+Email your Device ID to bigvirtue1@naver.com to request a free license.
+Import the issued .biglic file to activate the application.
+Release Information
+The official release is planned for December 24, 2026 (Christmas Eve). Final release preparation and testing are underway.
+
+한국어 소개
+BigVirtue1 Paint는 Windows와 Linux용 개인정보 보호 캔버스 및 암호화 문서 보관 프로그램입니다. 다중 대칭키 암호화, 양자 내성 암호 기술, 운영체제 수준의 메모리 보호 기법을 활용해 개인 메모와 문서를 안전하게 보관하도록 설계되었습니다.
+
+무료판: 기기 ID를 이메일로 보내 무료 라이선스를 신청할 수 있습니다.
+유료판(Pro): 추가 하드웨어 연동 및 확장 보안 기능을 제공합니다.
+출시 예정일: 2026년 12월 24일
+무료 라이선스 신청: bigvirtue1@naver.com
+Detailed Technical Documentation
 
 [Editions & Licensing]
 
