@@ -7,10 +7,22 @@
 </div>
 
 ---
+BigVirtue1 Bvf study encryption tools and Viewer ! A proprietary encrypted file format that surpasses PDF !
+
+## Security & Technical Specifications
+
+* **Core Architecture**: Proprietary BVF (BigVirtue Format) Container
+* **Input Support**: Standard PDF Document Processing
+* **Device Security**: Hardware Identifier Binding & Tamper Resistance
+* **Cryptographic Foundation**: Quantum-Resilient Public/Private Key Architecture
+* **Supported OS**: Windows 10/11, Linux (Major Distributions) and an Android app later.
+
 
 ## English
 
-BigVirtue1 Paint is a privacy-focused visual canvas and secure document vault designed to protect private notes, text, and documents through layered encryption, post-quantum cryptographic techniques, and operating-system-level memory protections.
+BigVirtue1 Paint Vault is a privacy-focused visual canvas and secure document vault designed to protect private notes, text, and documents through layered encryption, post-quantum cryptographic techniques, and operating-system-level memory protections.
+
+* **Design Philosophy**: Zero Unauthorized Leakage & Local-First Processing
 
 ### Key Features
 * **Triple-Layer Encryption:** XChaCha20-Poly1305 → Serpent-256-CTR → AES-256-GCM.
