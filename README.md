@@ -1,6 +1,6 @@
 <div align="center">
 
-# BigVirtue1 Paint
+# BigVirtue1 Paint Vault and Bvf study encryption tools and Viewer ! A proprietary encrypted file format that surpasses PDF !
 **Zero-Trace Privacy Canvas & Encrypted Document Vault**  
 *Windows & Linux · Free Edition & Pro Edition · Device-Bound Licensing*
 
@@ -145,8 +145,27 @@ The **bigvirtue1** project, a next-generation encryption standard engineered to 
 
 https://github.com/user-attachments/assets/c18dfb95-b590-4565-a526-af6edd06bd08
 
+BigVirtue1 Paint vault and bvf study encryption tools and viewer : Zero-Trace Privacy Canvas & Post-Quantum Encrypted Document Vault  (양자 내성 ML-KEM-1024 · 3중 연쇄 암호화 · 커널 메모리 잠금 및 흔적 제거 기술이 탑재된 Windows & Linux 개인정보 보호 소프트웨어)
 
+🇰🇷 한국어 버전 (README / 홈페이지용)
+bigvirtue1 BVF Study Encryption Tools & Viewer
+세계를 선도하는 독보적 프라이버시 수호신 — 차세대 보안 문서 뷰어 및 암호화 솔루션
 
+bigvirtue1 BVF Study Encryption Tools & Viewer는 연구, 학습 및 민감한 문서 관리를 위한 강력한 보안 솔루션입니다. PDF 문서를 불러와 독자적인 고보안 포맷인 BVF로 변환·암호화 저장하며, 무단 유출과 복제를 원천 차단하는 세계 최고 수준의 개인정보 수호신 프로그램입니다.
+
+🌟 핵심 주요 기능 (Key Highlights)
+독자적 고보안 포맷 (BVF): 일반 PDF 문서를 즉시 자체 독점 보안 포맷인 .bvf로 변환하여 안전하게 저장하고 열람합니다.
+
+하드웨어 바인딩 (Hardware Binding): 특정 기기에서만 복호화 및 열람이 가능하도록 하드웨어 고유 식별자와 강력하게 연동됩니다.
+
+양자 내성 및 공개키/개인키 암호화: 포스트 양자 시대(PQC)를 대비한 양자 내성 암호 알고리즘과 비대칭 키 체계를 적용하여 미래의 복호화 위협까지 방어합니다.
+
+대덕탑 개인정보 수호신 기술: 윈도우(Windows)와 리눅스(Linux) 환경을 완벽 지원하며, 연구 자료 및 개인 프라이버시를 절대적으로 보호합니다.
+
+통합형 뷰어 & 스터디 툴: 암호화된 상태에서도 부드러운 페이지 탐색, 텍스트 가독성 최적화, 스터디 메모 및 보안 북마크 기능을 제공합니다.
+
+🛡️ 왜 bigvirtue1 BVF인가?
+단순한 뷰어를 넘어선 Privacy Guardian God Encryption Program입니다. 최첨단 암호화 엔진과 기기 종속 보안 기술이 결합되어 어떤 환경에서도 데이터를 무결하고 안전하게 지켜냅니다.
 
 bigvirtue1 Top 
 I made Linux bigvirtue1 privacy encryption program ! The later the copyright purchase of my bigvirtue1 program is delayed, the higher the price will be. The company or country that buys it will win. bigvirtue1 리눅스 수호신 bigvirtue1 프로그램의 판권 구입이 늦어질수록 가격이 올라갈 것이다. 그것을 사는 회사나 국가가 승리할 것이다.!
