@@ -1,13 +1,13 @@
 <div align="center">
 
-# BigVirtue1 Paint Vault and Bvf study encryption tools and Viewer ! A proprietary encrypted file format that surpasses PDF !
+# BigVirtue1 Paint Vault and Bvf study creator encryption tools and Viewer ! A proprietary encrypted file format that surpasses PDF !
 **Zero-Trace Privacy Canvas & Encrypted Document Vault**  
 *Windows & Linux · Free Edition & Pro Edition · Device-Bound Licensing*
 
 </div>
 
 ---
-BigVirtue1 Bvf study encryption tools and Viewer ! A proprietary encrypted file format that surpasses PDF !
+BigVirtue1 Bvf study creator encryption tools and bvf Viewer and pdf Viewer ! A proprietary encrypted file format that surpasses PDF !
 
 ## Security & Technical Specifications
 
