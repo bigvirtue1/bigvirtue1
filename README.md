@@ -19,14 +19,14 @@ From hardware-bound security to proprietary document ecosystems, BigVirtue1 stan
 ​“One Platform. Three Core Technologies. One Unified Ecosystem.”
 Experience the ultimate protection. Experience BigVirtue1.
 
-# BigVirtue1 Paint Vault and Bvf study creator encryption tools and Viewer ! A proprietary encrypted file format that surpasses PDF !
+# BigVirtue1 Crypt and Bvf study creator encryption tools and Viewer and Commander ! A proprietary encrypted file format that surpasses PDF !
 **Zero-Trace Privacy Canvas & Encrypted Document Vault**  
 *Windows & Linux Pro Edition Device-Bound Licensing*
 
 </div>
 
 ---
-BigVirtue1 Bvf study creator encryption tools and bvf Viewer and pdf Viewer ! A proprietary encrypted file format that surpasses PDF !
+BigVirtue1 Crypt and Bvf study creator encryption tools and Viewer and Commander ! A proprietary encrypted file format that surpasses PDF !
 
 ## Security & Technical Specifications
 
